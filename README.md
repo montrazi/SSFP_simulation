@@ -1,1 +1,1 @@
-# SSFP_simulation
+# What is Steady-State Free Precession?
